@@ -1,0 +1,19 @@
+{
+  "name": "crudnode",
+  "version": "1.0.0",
+  "description": "Creating CRUD APIs with node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanijaristomanova/crudnode.git"
+  },
+  "author": "Stefanija Ristomanova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stefanijaristomanova/crudnode/issues"
+  },
+  "homepage": "https://github.com/stefanijaristomanova/crudnode#readme"
+}
